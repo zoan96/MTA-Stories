@@ -35,4 +35,4 @@ MTA:SA (Multi Theft Auto) server distribution — "SAxVCxLC Stories" RPG/RP game
 
 ## Git
 
-- Remotes: `origin` = https://github.com/zoan96/MTA-Stories (canonical, pushes go here), `ax705` = https://github.com/alexaxel705/MTA-Stories (mirror; sync only on request). Branch `main`.
+- Remotes: `origin` = https://github.com/zoan96/MTA-Stories (test/AI-modernization mirror — **all commits and pushes go here automatically**), `ax705` = https://github.com/alexaxel705/MTA-Stories (original project by the author — **push there ONLY after explicit user approval**). Branch `main`.
